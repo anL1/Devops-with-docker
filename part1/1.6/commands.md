@@ -1,0 +1,4 @@
+```
+docker build -t docker-clock .
+docker run docker-clock
+```
